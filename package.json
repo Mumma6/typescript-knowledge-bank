@@ -1,0 +1,17 @@
+{
+  "name": "typescript-knowledge-bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run-1-basic-types": "ts-node src/1-essential-types/basic-types/index.ts",
+    "run-1-annotations": "ts-node src/1-essential-types/annotations/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
