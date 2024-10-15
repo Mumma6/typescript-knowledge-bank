@@ -1,6 +1,8 @@
 # TypeScript Knowledge Bank
 
-This repository is a collection of TypeScript examples and knowledge, ranging from fundamental topics to advanced techniques. It is intended to serve as a comprehensive resource for developers looking to learn and master TypeScript, as well as a showcase of advanced TypeScript skills.
+This repository is a collection of TypeScript examples and knowledge, ranging from fundamental topics to advanced techniques. It is intended to serve as a comprehensive resource for developers looking to learn and master TypeScript, as well as a showcase of advanced TypeScript concepts.
+
+This is not about how TypeScript or JavaScript works under the hood, its all about types and the typelevel.
 
 ## Structure
 

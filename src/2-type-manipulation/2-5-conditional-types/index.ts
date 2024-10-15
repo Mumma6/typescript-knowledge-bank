@@ -1,3 +1,5 @@
+// TODO. add more examplea about infer: https://www.typescriptlang.org/docs/handbook/2/conditional-types.html
+
 // Example 1: Basic conditional type to check if a type is a string
 type IsString<T> = T extends string ? true : false
 
