@@ -1,4 +1,4 @@
-# TypeScript Knowledge Bank
+# TypeScript Knowledge Bank (WIP)
 
 This repository is a collection of TypeScript examples and knowledge, ranging from fundamental topics to advanced techniques. It is intended to serve as a comprehensive resource for developers looking to learn and master TypeScript, as well as a showcase of advanced TypeScript concepts.
 
